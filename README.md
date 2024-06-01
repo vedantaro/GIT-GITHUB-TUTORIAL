@@ -1,6 +1,7 @@
 # GIT-GITHUB-TUTORIAL
 
 /*Connecting Git*/
+
 git config --global user.name "username"<br>
 
 git config --global user.email "email"<br>
@@ -49,6 +50,7 @@ git remote -v (to verify remote)<br>
 git push origin main<br>
 
 /*Branch Commands*/
+
 git branch (to check branch)<br>
 git branch -M main (to rename branch)<br>
 git checkout <-Branch Name-> (to navigate to another branch)<br>
